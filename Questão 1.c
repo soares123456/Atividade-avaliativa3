@@ -52,7 +52,7 @@ int main() {
     char romanNumber[13];
     
     // Recebe a entrada do usuário
-    printf("Digite um número romano entre 1 e 1000: ");
+
     scanf("%s", romanNumber);
 
     // Converte o número romano para decimal

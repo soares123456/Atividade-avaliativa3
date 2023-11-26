@@ -68,10 +68,10 @@ int main() {
     char placa[10], diaSemana[15];
 
     // Entrada de dados
-    printf("Digite a placa do veiculo: ");
+    
     scanf("%s", placa);
 
-    printf("Digite o dia da semana: ");
+  
     scanf("%s", diaSemana);
 
     // Verifica se a placa pode circular no dia da semana
